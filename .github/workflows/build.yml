@@ -18,6 +18,9 @@ jobs:
           cli-version: 8.4.1
           web: true
 
+      - name: Get Ren'Py version
+        run: renpy-cli --version
+
       - name: Delete unnecessary files
         run: >
           find .
