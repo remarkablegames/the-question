@@ -85,4 +85,4 @@ renpy game lint
 
 ## License
 
-[MIT](LICENSE)
+[MIT](https://www.renpy.org/doc/html/license.html)
