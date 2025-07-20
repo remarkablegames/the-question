@@ -14,16 +14,6 @@ Play the game on:
 
 - [remarkablegames](https://remarkablegames.org/the-question)
 
-## Credits
-
-### Art
-
-- [Uncle Mugen](https://lemmasoft.renai.us/forums/viewtopic.php?t=17302)
-
-### Audio
-
-- [Kenney](https://kenney.nl/assets/interface-sounds)
-
 ## Prerequisites
 
 Download [Ren'Py SDK](https://www.renpy.org/latest.html):
@@ -52,22 +42,6 @@ Clone the repository to the `Projects Directory`:
 git clone https://github.com/remarkablegames/the-question.git
 cd the-question
 ```
-
-Rename the project:
-
-```sh
-git grep -l "The Question" | xargs sed -i '' -e "s/The Question/My Novel/g"
-```
-
-```sh
-git grep -l 'the-question' | xargs sed -i '' -e 's/the-question/my-novel/g'
-```
-
-Replace the assets:
-
-- [ ] `web-presplash.jpg`
-- [ ] `game/gui/main_menu.png`
-- [ ] `game/gui/window_icon.png`
 
 ## Run
 
