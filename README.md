@@ -8,7 +8,7 @@
 [![build](https://github.com/remarkablegames/the-question/actions/workflows/build.yml/badge.svg)](https://github.com/remarkablegames/the-question/actions/workflows/build.yml)
 [![lint](https://github.com/remarkablegames/the-question/actions/workflows/lint.yml/badge.svg)](https://github.com/remarkablegames/the-question/actions/workflows/lint.yml)
 
-📖 The Question.
+❓ The Question
 
 Play the game on:
 
