@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/remarkablegames/the-question/master/game/gui/window_icon.png" alt="The Question">
+  <img src="game/gui/window_icon.png" alt="The Question">
 </p>
 
 # The Question
